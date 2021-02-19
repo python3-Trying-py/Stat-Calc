@@ -12,7 +12,7 @@ while True:
     ProbInv=(1 - Prob)
     Per=(Prob * 100)
     PerInv=(ProbInv * 100)
-    print("The Z score is " + str(Zscore))
-    print("The Percentile " + str(Per) + "%")
-    print("The Greater than or equal to is " + str(PerInv) + "%")
+    print("Z score = " + str(Zscore))
+    print("Percentile = " + str(Per) + "%")
+    print("Percentile compliment = " + str(PerInv) + "%")
     
