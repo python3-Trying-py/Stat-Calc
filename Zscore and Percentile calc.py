@@ -14,4 +14,5 @@ PerInv=(ProbInv * 100)
 print("Z score = " + str(Zscore))
 print("Percentile = " + str(Per) + "%")
 print("Percentile compliment = " + str(PerInv) + "%")
+#big thanks to urlordjames for telling me about scipy
     
